@@ -24,4 +24,4 @@ neighbors_dict = {
     }
 
 
-<img src="/resources/colored-plot.html?raw=true"/>
+<img src="/resources/colored-plot.html"/>
