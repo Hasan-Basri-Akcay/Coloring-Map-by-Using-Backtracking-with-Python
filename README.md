@@ -1,1 +1,0 @@
-# Coloring-Map-by-Using-Backtracking-with-Python
