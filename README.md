@@ -24,4 +24,4 @@ neighbors_dict = {
     }
 
 
-<html src="/resources/colored-plot.html"/>
+<div  w3-include-html="/resources/colored-plot.html"></div>
