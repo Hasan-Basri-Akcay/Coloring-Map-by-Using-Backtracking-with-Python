@@ -24,4 +24,4 @@ neighbors_dict = {
     }
 
 
-<iframe src="/resources/colored-plot.html", style="width: 400px; height: 200px;></iframe>
+<iframe src="/resources/colored-plot.html" style="width: 400px; height: 200px;></iframe>
