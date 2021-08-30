@@ -23,5 +23,5 @@ neighbors_dict = {
     'Venezuela': ['Brazil', 'Colombia', 'Guyana']
     }
 
-Result 
-/resources/colored-plot.html
+
+<img src="/resources/colored-plot.html?raw=true"/>
