@@ -24,4 +24,4 @@ neighbors_dict = {
     }
 
 
-<div  w3-include-html="/resources/colored-plot.html"></div>
+<iframe src="/resources/colored-plot.html"></iframe>
