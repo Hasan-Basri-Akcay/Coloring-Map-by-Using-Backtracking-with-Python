@@ -22,6 +22,7 @@ neighbors_dict = {
     'Uruguay': ['Argentina', 'Brazil'],
     'Venezuela': ['Brazil', 'Colombia', 'Guyana']
     }
-
+    
+---
 
 <img src="/resources/colored-plot.png?raw=true"/>
